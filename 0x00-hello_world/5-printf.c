@@ -1,9 +1,10 @@
 #include <stdio.h>
 
 /**
-* main has to print "with proper grammar, but the ouptu is a piece of art,"
+* main - Entry point 
+* Description :  print "with proper grammar, but the ouptu is a piece of art,"
 *
-* Return always set to 0 (Success)
+* Return: always set to 0 (Success)
 */
 
 int main(void)
