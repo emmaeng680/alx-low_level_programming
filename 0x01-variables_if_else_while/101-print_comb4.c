@@ -1,4 +1,6 @@
-* main - Entry point
+#include <stdio.h>
+/**
+ * main - Entry point
  * Description: 'double combinations of 0 to 9'
  * Return: Always 0 (Success)
  */
