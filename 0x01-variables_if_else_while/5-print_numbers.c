@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * Description: 'print last digit of n with conditions'
+ * Description: 'prints 0 to 9'
  * Return: Always 0 (Success)
  */
 int main(void)
