@@ -10,22 +10,16 @@ int alphabet, capitals;
 
 for (alphabet = 'a' ; alphabet <= 'z' ; alphabet++)
 {
-
 if (alphabet == 'q' || alphabet == 'e')
 {
 continue;
 }
-
 else
 {
 putchar(alphabet);
 }
-
 }
-
 putchar(10);
-
-
 return (0);
 }
 
