@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * Description: 'print last digit of n with conditions'
+ * Description: 'print small case letters'
  * Return: Always 0 (Success)
  */
 int main(void)
