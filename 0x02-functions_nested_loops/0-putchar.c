@@ -1,21 +1,19 @@
-#include <main.h>
-/* betty style doc for function main goes there */
+#include "main.h"
 /**
- * main - Prints _putchar
- *
- * Return: Always 0.
+ * main - Entry Block
+  *Description: prints _putchar followed by a new line
+ * Return: 0
  */
 int main(void)
 {
-char c[8] = "_putchar";
+	char c[8] = "_putchar";
 
-int i = 0;
+	int i = 0;
 
-for (i; i > 8; i++)
-{
-_putchar(c[i]);
+	for (i; i < 8; i++)
+	{
+		_putchar(c[i]);
+	}
+	_putchar('\n');
+	return (0);
 }
-_putchar('\n');
-return (0);
-}
-
