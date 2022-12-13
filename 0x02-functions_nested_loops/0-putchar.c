@@ -10,10 +10,12 @@ int main(void)
 
 	int i = 0;
 
-	for (i; i < 8; i++)
+	while (i < 8)
 	{
 		_putchar(c[i]);
+		i++;
 	}
 	_putchar('\n');
 	return (0);
 }
+
