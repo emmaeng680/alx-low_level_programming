@@ -17,6 +17,6 @@ deint.c  102 - free_listint_safe.c   3 - add_nodeint_end.c
 		h = h->next;
 		nnodes++;
 	}
-	return (nnodes);
+	return(nnodes);
 }
 
